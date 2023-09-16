@@ -21,6 +21,6 @@ Disable Telemetry
 - Text Eendering
 - GUI/HUD
 - Particles
--Entities
--Immediate Mode Rendering Of Other Mods
--Map rendering
+- Entities
+- Immediate Mode Rendering Of Other Mods
+- Map rendering
