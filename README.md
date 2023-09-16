@@ -5,6 +5,7 @@
 - CTM
 - CEM
 - Disable Telemetry
+- Connected Textures
 # Optimization
 - Lighting
 - Integrated Server MS
