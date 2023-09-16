@@ -1,7 +1,7 @@
 # Feature List 
--Dynamic Lights
--Shaders
--Animations Option
+- Dynamic Lights
+- Shaders
+- Animations Option
 -CTM
 -CEM
 Disable Telemetry
