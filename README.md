@@ -4,7 +4,7 @@
 - Animations Option
 - CTM
 - CEM
-Disable Telemetry
+- Disable Telemetry
 # Optimization
 - Lighting
 - Integrated Server MS
